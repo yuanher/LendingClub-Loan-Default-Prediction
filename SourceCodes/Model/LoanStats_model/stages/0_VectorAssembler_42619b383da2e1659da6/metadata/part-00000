@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1520252329881,"sparkVersion":"2.2.1","uid":"VectorAssembler_42619b383da2e1659da6","paramMap":{"outputCol":"features","inputCols":["int_rate","loan_amnt","total_pymnt","out_prncp","policy_code"]}}
